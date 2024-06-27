@@ -9,6 +9,7 @@ My boss asked me to share a few fixed commodity prices on a daily basis, twice e
 ## Screenshot:
 ![image](https://github.com/SakibAhmedShuva/commodity-price-scraper/assets/126283947/2bfbd34b-5bee-451f-9cb0-d86c7a2386f8)
 
+Change the code to add/remove your required commodities. You will find a good list of commodites here: [tradingeconomics.com](https://tradingeconomics.com/commodities).
 
 ## Packages Used
 
