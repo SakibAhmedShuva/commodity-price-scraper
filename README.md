@@ -15,7 +15,7 @@ My boss asked me to share a few fixed commodity prices on a daily basis, twice e
 
 Change the code to add/remove your required commodities. You will find a good list of commodites here: [tradingeconomics.com](https://tradingeconomics.com/commodities).
 
-## Packages I have Used
+## I have Used:
 
 - Python 3.12.4
 - beautifulsoup4==4.12.3
