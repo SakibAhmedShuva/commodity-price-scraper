@@ -28,7 +28,7 @@ Change the code to add/remove your required commodities. You will find a good li
   ```sh
   git clone https://github.com/SakibAhmedShuva/commodity-price-scraper
 
-2.Open the folder
+2. Open the folder
   ```sh
   cd commodity-price-scraper
 
