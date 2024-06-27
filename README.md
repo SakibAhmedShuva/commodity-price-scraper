@@ -29,13 +29,16 @@ Change the code to add/remove your required commodities. You will find a good li
   git clone https://github.com/SakibAhmedShuva/commodity-price-scraper
 
 2. Open the folder
+
   ```sh
   cd commodity-price-scraper
 
-2. Install the required packages:
+3. Install the required packages:
+
    ```bash
 pip install -r requirements.txt
 
-3. Run the script
+4. Run the script
+
    ```bash
 python commodity-price-scraper.py
