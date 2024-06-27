@@ -30,15 +30,15 @@ Change the code to add/remove your required commodities. You will find a good li
 
 2. Open the folder
 
-  ```sh
-  cd commodity-price-scraper
+   ```sh
+   cd commodity-price-scraper
 
 3. Install the required packages:
 
-   ```bash
-pip install -r requirements.txt
+    ```sh
+    pip install -r requirements.txt
 
 4. Run the script
 
-   ```bash
-python commodity-price-scraper.py
+    ```sh
+    python commodity-price-scraper.py
