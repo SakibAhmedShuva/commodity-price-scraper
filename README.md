@@ -42,3 +42,7 @@ Change the code to add/remove your required commodities. You will find a good li
 
    ```sh
    python commodity-price-scraper.py
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
